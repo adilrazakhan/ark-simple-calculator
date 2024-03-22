@@ -1,0 +1,22 @@
+{
+  "name": "cli-smart-calculator-by-ark",
+  "version": "2.0.0",
+  "description": "a simple calculator with Typescript, node.js and inquirer",
+  "main": "index.js",
+  "type":"module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "adil raza",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.28"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "undici-types": "^5.26.5"
+  }
+}
